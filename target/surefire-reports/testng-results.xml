@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2025-04-15T15:28:35 IST" name="Surefire suite" finished-at="2025-04-15T15:29:10 IST" duration-ms="34188">
+    <groups>
+    </groups>
+    <test started-at="2025-04-15T15:28:35 IST" name="Surefire test" finished-at="2025-04-15T15:29:10 IST" duration-ms="34188">
+      <class name="selenum.seleniumDemo.LoginTest">
+        <test-method is-config="true" signature="setUp()[pri:0, instance:selenum.seleniumDemo.LoginTest@65466a6a]" started-at="2025-04-15T15:28:35 IST" name="setUp" finished-at="2025-04-15T15:28:39 IST" duration-ms="3729" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method signature="loginTest()[pri:0, instance:selenum.seleniumDemo.LoginTest@65466a6a]" started-at="2025-04-15T15:28:39 IST" name="loginTest" finished-at="2025-04-15T15:29:09 IST" duration-ms="29655" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- loginTest -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:selenum.seleniumDemo.LoginTest@65466a6a]" started-at="2025-04-15T15:29:09 IST" name="tearDown" finished-at="2025-04-15T15:29:10 IST" duration-ms="773" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- selenum.seleniumDemo.LoginTest -->
+    </test> <!-- Surefire test -->
+  </suite> <!-- Surefire suite -->
+</testng-results>
